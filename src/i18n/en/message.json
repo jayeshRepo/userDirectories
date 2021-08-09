@@ -1,0 +1,8 @@
+{
+   "NOT_FOUND": "Record not found!",
+   "FIELD_EXIST": "The seller is already registered with this {FIELD}!",
+   "DB_ERROR": "Something went wrong!",
+   "SUCCESS_REGISTRATION": "{FIELD} registration successfully!",
+   "SUCCESS_LOGIN": "Seller logged in successfully!",
+   "INVALID_USER": "Email ID and password are not match with the system!"
+}

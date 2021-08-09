@@ -1,0 +1,8 @@
+{
+   "NOT_FOUND": "Document niet gevonden!",
+   "FIELD_EXIST": "De gebruiker is hier al mee geregistreerd {FIELD}",
+   "DB_ERROR": "Er is iets fout gegaan!",
+   "SUCCESS_REGISTRATION": "{FIELD} registratie succesvol!",
+   "SUCCESS_LOGIN": "Seller logged in successfully!",
+   "INVALID_USER": "Email ID and password are not match with the system!"
+}
